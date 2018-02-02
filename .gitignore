@@ -1,0 +1,12 @@
+openFrameworks-Info.plist
+Project.xcconfig
+project.pbxproj
+.gitkeep
+example/example.xcodeproj/project.xcworkspace/contents.xcworkspacedata
+example/example.xcodeproj/project.xcworkspace/xcuserdata/janvantomme.xcuserdatad/UserInterfaceState.xcuserstate
+example/example.xcodeproj/xcshareddata/xcschemes/example Debug.xcscheme
+example/example.xcodeproj/xcshareddata/xcschemes/example Release.xcscheme
+example/example.xcodeproj/xcuserdata/janvantomme.xcuserdatad/xcschemes/xcschememanagement.plist
+example/addons.make
+example/config.make
+example/Makefile
