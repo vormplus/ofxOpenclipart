@@ -10,3 +10,6 @@ example/example.xcodeproj/xcuserdata/janvantomme.xcuserdatad/xcschemes/xcschemem
 example/addons.make
 example/config.make
 example/Makefile
+example/bin/exampleDebug.app
+example/bin/example.app
+example/bin/data
